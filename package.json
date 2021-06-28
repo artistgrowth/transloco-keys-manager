@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngneat/transloco-keys-manager.git"
+    "url": "git+https://github.com/artistgrowth/transloco-keys-manager.git"
   },
   "keywords": [
     "angular",
